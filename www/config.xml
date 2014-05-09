@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap = "http://phonegap.com/ns/1.0" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.lable.FDTD" version="1.0.0">
-    <name>FDTD</name>
-    <description>What happens on FDTD stays on FDTD</description>
+    <name>HTML5GameJAM</name>
+    <description>HTML5GameJAM HTML5GameJAM HTML5GameJAM</description>
     <author email="mathieu.barat@gmail.com" href="http://www.fdtd.co">Mabdylon</author>
     <access origin="*"/>
     <content src="index.html" />
@@ -49,7 +49,7 @@
 
     <icon src="icon.png" />
 
-    <gap:plugin name="org.apache.cordova.file" />
+<!--    <gap:plugin name="org.apache.cordova.file" />
     <gap:plugin name="org.apache.cordova.camera" />
     <gap:plugin name="org.apache.cordova.device" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
@@ -58,7 +58,7 @@
     <gap:plugin name="org.apache.cordova.contacts" />
     <gap:plugin name="org.apache.cordova.dialogs" />
     <gap:plugin name="com.phonegap.plugin.statusbar" />
-    <gap:plugin name="nl.x-services.plugins.toast" />
+    <gap:plugin name="nl.x-services.plugins.toast" />-->
     <!--<gap:plugin name="nl.x-services.plugins.socialsharing" />-->
     <!--<gap:plugin name="nl.x-services.plugins.videocaptureplus" />-->
 <!--    <gap:plugin name="org.apache.cordova.battery-status" />
@@ -75,10 +75,10 @@
     <gap:plugin name="org.apache.cordova.vibration" />-->
 
 
-    <icon src="images/app/ios/AppIcon72x72@2x.png" />
+    <!--<icon src="images/app/ios/AppIcon72x72@2x.png" />-->
 
     
-    <icon src="images/app/ios/AppIcon72x72@2x.png" gap:platform="android" gap:density="ldpi" />
+<!--    <icon src="images/app/ios/AppIcon72x72@2x.png" gap:platform="android" gap:density="ldpi" />
     <icon src="images/app/ios/AppIcon72x72@2x.png" gap:platform="android" gap:density="mdpi" />
     <icon src="images/app/ios/AppIcon72x72@2x.png" gap:platform="android" gap:density="hdpi" />
     <icon src="images/app/ios/AppIcon72x72@2x.png" gap:platform="android" gap:density="xhdpi" />
@@ -90,10 +90,10 @@
     <icon src="images/app/ios/AppIcon72x72@2x.png" gap:platform="ios" width="144" height="144" />
     <icon src="images/app/ios/AppIcon72x72@2x.png" gap:platform="webos" />
     <icon src="images/app/ios/AppIcon72x72@2x.png" gap:platform="winphone" />
-    <icon src="images/app/ios/AppIcon72x72@2x.png" gap:platform="winphone" gap:role="background" />
+    <icon src="images/app/ios/AppIcon72x72@2x.png" gap:platform="winphone" gap:role="background" />-->
 
     <!-- Define app splash screen for each platform. -->
-    <gap:splash src="images/app/android/android-ldpi.png" gap:platform="android" gap:density="ldpi" />
+<!--    <gap:splash src="images/app/android/android-ldpi.png" gap:platform="android" gap:density="ldpi" />
     <gap:splash src="images/app/android/android-mdpi.png" gap:platform="android" gap:density="mdpi" />
     <gap:splash src="images/app/android/android-hdpi.png" gap:platform="android" gap:density="hdpi" />
     <gap:splash src="images/app/android/android-xhdpi.png" gap:platform="android" gap:density="xhdpi" />
@@ -101,7 +101,7 @@
     <gap:splash src="images/app/ios/FDTD-iphone-320x480.png" gap:platform="ios" width="320" height="480" />
     <gap:splash src="images/app/ios/FDTD-iphone4.png" gap:platform="ios" width="640" height="960" />
     <gap:splash src="images/app/ios/FDTD-iphone5.png" gap:platform="ios" width="640" height="1136" />
-    <gap:splash src="images/app/ios/profile_splash_2x.png" gap:platform="winphone" />
+    <gap:splash src="images/app/ios/profile_splash_2x.png" gap:platform="winphone" />-->
 
 
 
