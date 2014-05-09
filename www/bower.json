@@ -1,0 +1,10 @@
+{
+  "name": "HTML5GameJAM",
+  "description": "",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery":"*"
+  },
+  "devDependencies": {
+  }
+}
