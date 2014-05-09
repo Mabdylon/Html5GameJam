@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.lable.FDTD" version="1.0.0">
-    <name>From Dusk Till Dawn</name>
-    <description>What's happen on FDTD, Stay on FDTD</description>
-    <author email="mathieu.barat@gmail.com" href="https://fdtd.herokuapp.com">Mabdylon</author>
+    <name>HTML5 Game Jam</name>
+    <description>HTML5 HTML5 HTML5</description>
+    <author email="mathieu.barat@gmail.com" href="https://html5gamejam.com">Mabdylon</author>
     
     <preference name="fullscreen" value="true"/>
     <preference name="webviewbounce" value="false"/>
